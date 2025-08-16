@@ -19,11 +19,10 @@ It uses **Google Translate API (unofficial)** to provide instant translations be
 ## 📸 Screenshots  
 
 <p align="center">
-  <img src="screenshots/home.png" alt="Home Screen" width="250"/>
-  <img src="screenshots/result.png" alt="Result Screen" width="250"/>
+  <img src="ss/input.jpg" alt="Home Screen" width="250"/>
+  <img src="ss/output.jpg" alt="Result Screen" width="250"/>
 </p>
 
-*(Add your own screenshots in a `/screenshots` folder and replace the file names.)*
 
 ---
 
@@ -43,12 +42,11 @@ It uses **Google Translate API (unofficial)** to provide instant translations be
 
 Option 2: Install APK (Recommended 🚀)
 
-1. Download the latest APK from Releases
-(or add a Google Drive link here if you host it there).
+1. Download the latest APK from Releases.
 
 2.Transfer to your Android device
 
-3.Enable Install from Unknown Sources (if required)
+3.Enable Install from Unknown Sources
 
 4.Install & enjoy 🌍
 
@@ -84,12 +82,12 @@ translator-app/
 ```
 
 🚀 Future Enhancements
-
+```
 🎙️ Voice input support
 🔊 Text-to-Speech output
 📷 Camera OCR translation
 💾 Offline translation support
-
+```
 
 📜 License
 
