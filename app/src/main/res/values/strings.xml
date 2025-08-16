@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Translator_App</string>
+    <string name="swap">↔</string>
+    <string name="translate">Translate</string>
+    <string name="hint_input">Type text to translate</string>
+</resources>

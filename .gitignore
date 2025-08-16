@@ -1,0 +1,39 @@
+# Gradle
+.gradle/
+*/build/
+build/
+
+# Local configuration
+local.properties
+
+# IntelliJ/Android Studio project files
+.idea/
+*.iml
+
+# Native build files
+.cxx/
+.externalNativeBuild/
+
+# Log files
+*.log
+
+# macOS system files
+.DS_Store
+
+# Generated captures
+captures/
+
+# Output files
+output.json
+
+# Signing keys (DO NOT share these)
+*.jks
+*.keystore
+
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Compiled Java class files
+*.class
